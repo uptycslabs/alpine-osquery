@@ -10,3 +10,5 @@ Install as root using a command such as:
 ```
 sudo apk add --allow-untrusted /path/to/osquery-<version>.apk
 ```
+
+After installation the osquery service should automatically start
