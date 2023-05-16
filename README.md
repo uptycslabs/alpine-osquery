@@ -1,2 +1,2 @@
-# alpine-osquery
-Uptycs Package for Alpine
+# Alpine Linux Package
+Uptycs Package for Linux Alpine
